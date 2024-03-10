@@ -2,3 +2,5 @@
 
 - 강의: https://codingapple.com/course/vue-js/
 - ~~css는 도저히 자신이 없는데...~~
+
+[깃헙페이지](https://nuyh99.github.io/vue-study)
